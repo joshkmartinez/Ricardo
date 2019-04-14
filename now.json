@@ -1,0 +1,23 @@
+{
+  "name": "Ricardo",
+  "alias": [
+    "ricardo",
+    "ricardodances",
+    "ricardodance",
+    "ricardoooooo",
+    "rico",
+    "riccc",
+    "ricoDance",
+    "Riii",
+    "Riiiiiiii",
+    "Reeeeeeee",
+    "ricodances",
+    "allhailricardo",
+    "rrriiicccaaarrrdddooo"
+  ],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
